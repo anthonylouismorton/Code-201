@@ -1,38 +1,18 @@
 
-## Welcome to GitHub Pages
+#Class 201 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/anthonylouismorton/anthonylouismorton.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# *Duckett HTML Book*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## HTML Chapter 1: “Structure” (pp.12-39)
 
-### Markdown
+## HTML Chapter 8: “Extra Markup” (p.176-199)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 
-```markdown
-Syntax highlighted code block
+## HTML Chapter 18: “Process & Design” (pp.452-475)
 
-# Header 1
-## Header 2
-### Header 3
+## *Duckett JS Book*
 
-- Bulleted
-- List
+## Introduction
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anthonylouismorton/anthonylouismorton.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Chapter 1: “The ABC of Programming” (pp.11-52)
