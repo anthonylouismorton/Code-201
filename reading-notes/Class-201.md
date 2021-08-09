@@ -5,7 +5,7 @@
 ## ***Duckett HTML Book***
 
 ### HTML Chapter 1: “Structure” (pp.12-39)
--Overview of three major topics covered by the book (HTML, CSS, and Practical implementation)
+- Overview of three major topics covered by the book (HTML, CSS, and Practical implementation)
 - Clarification of terminology to include: browsers, web servers, devices, screen readers, "what you see", "how it is created", and HTML5 & CSS3
 
 ### HTML Chapter 8: “Extra Markup” (p.176-199)
