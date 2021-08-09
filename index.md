@@ -1,3 +1,7 @@
+theme: jekyll-theme-minimal
+title: Welcome to Course 201 Reading Notes
+description: Notes HTML & CSS and JavaScript & JQuery reading notes
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/anthonylouismorton/anthonylouismorton.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
