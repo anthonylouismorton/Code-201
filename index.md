@@ -1,6 +1,3 @@
-theme: jekyll-theme-minimal
-title: Welcome to Course 201 Reading Notes
-description: Notes HTML & CSS and JavaScript & JQuery reading notes
 
 ## Welcome to GitHub Pages
 
