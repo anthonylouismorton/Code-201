@@ -1,7 +1,7 @@
 
 # ** Class 201 Reading Notes **
 
-## ** *Duckett HTML Book* **
+## ***Duckett HTML Book***
 
 ### HTML Chapter 1: “Structure” (pp.12-39)
 
