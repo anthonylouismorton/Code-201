@@ -10,7 +10,7 @@
 
 ### HTML Chapter 1: “Structure” (pp.12-39)
 - Discusses the similarities between HTML pages and text documements simliar to a word document
-- HTML opening tags are in angle brackets (<body>) and closing tags have the same naming convention with a "/" before the naming convention (</body>)
+- HTML opening tags are in angle brackets (&<body>&) and closing tags have the same naming convention with a "/" before the naming convention (</body>)
 - Provides examples of HTML tags and their uses:
   1. HTML: everything within this tag is an html file
   2. Body: what is displayed on the view port/webpage
