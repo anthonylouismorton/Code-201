@@ -20,7 +20,7 @@
 ### HTML Chapter 8: “Extra Markup” (p.176-199)
 - Doctype declares the version of html you are using (ex. <!DOCTYPE html>; browsers usually display pages even if the doctype isn't present
 - Comments allow developers to create notes that can only be seen when viewing a page source and do not appear on a web browswer/viewport
-- Comments are contained with the following syntax: "<!-- -->" ex. <!-- You can't see this on the webpage, because it is within the comment syntax -->
+- Comments are contained with the following syntax: ("<!-- -->") ex. (<!-- You can't see this on the webpage, because it is within the comment syntax -->)
 
 ### HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 
