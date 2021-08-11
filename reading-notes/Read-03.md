@@ -5,13 +5,21 @@
 ## ***Duckett HTML Book***
 
 ### HTML Chapter 3: “Lists” (p.62-73)
+
 - Three types of lists: Ordered, Unordered, and Definition
+
 **Ordered List Syntax:** 
+
 &lt;OL&gt;
+
   &lt;LI&gt; Candy &lt;/LI&gt;
+  
   &lt;LI&gt; Soda &lt;/LI&gt;
+  
   &lt;LI&gt; Popcorn &lt;/LI&gt;
+  
 &lt;/OL&gt;
+
 **Output:**
 1. Candy
 2. Soda
