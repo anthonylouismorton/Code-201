@@ -9,7 +9,7 @@
 - Three types of lists: Ordered, Unordered, and Definition
 - Ordered lists are displayed using a numerical system
 - Unordered lists are not numbered, but use a bullet style system
-- Definition lists
+- Definition lists define terminologies
 
 **Ordered List Syntax:** 
 
@@ -24,6 +24,7 @@
 &lt;/OL&gt;
 
 **Output:**
+
 1. Candy
 2. Soda
 3. Popcorn
@@ -41,9 +42,43 @@
 &lt;/UL&gt;
 
 **Output:**
+
 - Candy
 - Soda
 - Popcorn
+
+
+**Definition List Syntax:** 
+
+&lt;DL&gt;
+
+  &lt;DT&gt; Candy &lt;/DT&gt;
+  
+  &lt;DD&gt; A tasty treat usually made out of sugar or chocolate  &lt;/DD&gt;
+  
+  &lt;DT&gt; Soda &lt;/DT&gt;
+  
+  &lt;DD&gt; A sugary drink made with syrup  &lt;/DD&gt;
+  
+  &lt;DT&gt; Popcorn &lt;/DT&gt;
+  
+  &lt;DD&gt; Made from heating corn until it pops. Usually mixed with butter and/or salt  &lt;/DD&gt;
+  
+&lt;/DL&gt;
+
+**Output:**
+
+Candy
+
+   A tasty treat usually made out of sugar or chocolate 
+   
+Soda
+
+  A sugary drink made with syrup
+  
+Popcorn
+  
+  Made from heating corn until it pops. Usually mixed with butter and/or salt
 
 ### Chapter 13: “Boxes” (pp.300-329)
 - html 5 has additional elements not previously used in earlier versions
