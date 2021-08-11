@@ -70,15 +70,15 @@
 
 Candy
 
-   A tasty treat usually made out of sugar or chocolate 
+     A tasty treat usually made out of sugar or chocolate 
    
 Soda
 
-  A sugary drink made with syrup
+    A sugary drink made with syrup
   
 Popcorn
   
-  Made from heating corn until it pops. Usually mixed with butter and/or salt
+    Made from heating corn until it pops. Usually mixed with butter and/or salt
 
 ### Chapter 13: “Boxes” (pp.300-329)
 - html 5 has additional elements not previously used in earlier versions
