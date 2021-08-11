@@ -95,9 +95,11 @@ Made from heating corn until it pops. Usually mixed with butter and/or salt
 
 **Syntax:**
 > var hockeyteams;
+
 > hockeyteams = ['Coyotes','Ducks','Kings'];
 
-** numbering:**
+**numbering:**
+
 Index      Value
 0         Coyotes
 1         Ducks
