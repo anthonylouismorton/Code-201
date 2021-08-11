@@ -82,7 +82,7 @@ Made from heating corn until it pops. Usually mixed with butter and/or salt
 
 ### Chapter 13: “Boxes” (pp.300-329)
 - Elements are treating as boxes. Without any styling boxes are only the size of the content held within the box
-- CSS can be added to change the size of boxes. Height, width, padding, margin, border, and color (background and border) are a few of the sytlings that can be assigned to boxes
+- CSS can be added to change the size of boxes. Height, width, padding, margin, border, and color (background and border) are a few of the stylings that can be assigned to boxes
 - Boxes can be treated as inline or block elements
   **block elements occupy the entire width (line) of the page**
   **inline elements are only as large as the content within or the width specified. multiple inline boxes can occupy the same line**
@@ -112,7 +112,7 @@ Index      Value
 - items can be added, updated, deleted, or read (crud) from an array
 
 ### Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
-- Conditional statemets all for code to make a decision on what to do next depending on a condition
+- Conditional statements all for code to make a decision on what to do next depending on a condition
 - for, while, and do, are loops that check conditions and make a decision accordingly
 - Comparison operators are used in loops to compare two different outcomes:
 
@@ -124,7 +124,7 @@ Index      Value
 
 **<=** means less than or equal to
 
-- switch cases compare a value to multipe outcomes and allow the use of a default value if none of the outcomes explicity stated are met
+- switch cases compare a value to multiple outcomes and allow the use of a default value if none of the outcomes explicitly stated are met
 
 
 
