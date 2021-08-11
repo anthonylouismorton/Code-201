@@ -7,6 +7,9 @@
 ### HTML Chapter 3: “Lists” (p.62-73)
 
 - Three types of lists: Ordered, Unordered, and Definition
+- Ordered lists are displayed using a numerical system
+- Unordered lists are not numbered, but use a bullet style system
+- Definition lists
 
 **Ordered List Syntax:** 
 
@@ -24,6 +27,23 @@
 1. Candy
 2. Soda
 3. Popcorn
+
+**Unordered List Syntax:** 
+
+&lt;UL&gt;
+
+  &lt;LI&gt; Candy &lt;/LI&gt;
+  
+  &lt;LI&gt; Soda &lt;/LI&gt;
+  
+  &lt;LI&gt; Popcorn &lt;/LI&gt;
+  
+&lt;/UL&gt;
+
+**Output:**
+- Candy
+- Soda
+- Popcorn
 
 ### Chapter 13: “Boxes” (pp.300-329)
 - html 5 has additional elements not previously used in earlier versions
