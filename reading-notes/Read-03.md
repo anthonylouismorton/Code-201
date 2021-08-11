@@ -115,10 +115,15 @@ Index      Value
 - Conditional statemets all for code to make a decision on what to do next depending on a condition
 - for, while, and do, are loops that check conditions and make a decision accordingly
 - Comparison operators are used in loops to compare two different outcomes:
+- 
 **===*** means strictly equal to
+
 **!==** means not equal to
+
 **<** means less than
+
 **<=** means less than or equal to
+
 - switch cases compare a value to multipe outcomes and allow the use of a default value if none of the outcomes explicity stated are met
 
 
