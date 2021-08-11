@@ -5,17 +5,18 @@
 ## ***Duckett HTML Book***
 
 ### HTML Chapter 3: “Lists” (p.62-73)
-- Doctype declares the version of html you are using (ex. <!DOCTYPE html>; browsers usually display pages even if the doctype isn't present
-- Comments allow developers to create notes that can only be seen when viewing a page source and do not appear on a web browser/viewport
-&lt;!-- You can't see this on the webpage, because it is within the comment syntax --&gt;
-- ID attribute is used to uniquely identify one element from another. This makes adding CSS much easier. If you didn't have a unique id for a div tag the css would apply to all divs
-- Class is similar to id, but is used when multiple elements are to be treated as the same, but still different then certain other elements
-- block elements always start on a new line. a P tag is an example of a block element
-- inline elements continue on the same line. a span tag is an example of an inline element
-- escape characters are required when you want an HTML reserved character to appear on a webpage
-- meta data provides information not seen on the webpage, but can be helpful in informing a search engine what your page is about
-- iframes are a window within your window and are used to embed other websites such as a youtube video or map from google maps
--
+- Three types of lists: Ordered, Unordered, and Definition
+**Ordered List Syntax:** 
+&lt;OL&gt;
+  &lt;LI&gt; Candy &lt;/LI&gt;
+  &lt;LI&gt; Soda &lt;/LI&gt;
+  &lt;LI&gt; Popcorn &lt;/LI&gt;
+&lt;/OL&gt;
+**Output:**
+1. Candy
+2. Soda
+3. Popcorn
+
 ### Chapter 13: “Boxes” (pp.300-329)
 - html 5 has additional elements not previously used in earlier versions
 - div tags were originally used in addition to the common html tags (body, html, title, head) to identify separate elements. This could make styling difficult as assigning a class or id to every div would now be necessary if you wanted different styling for each div tag
