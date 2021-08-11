@@ -91,7 +91,8 @@ Made from heating corn until it pops. Usually mixed with butter and/or salt
 ## *Duckett JS Book*
 
 ### Review from Reading 02 - Chapter 2: “Basic JavaScript Instructions” (pp.70-73)
-- Items in an array are automatically numbered (indexed) in the order they are put into an array starting with zero.
+- Arrays can be thought of as lists
+- Items in an array are automatically numbered (indexed) in the order they are put into an array starting with zero
 
 **Syntax:**
 > var hockeyteams;
@@ -101,9 +102,24 @@ Made from heating corn until it pops. Usually mixed with butter and/or salt
 **numbering:**
 
 Index      Value
+
 0         Coyotes
+
 1         Ducks
+
 2         Kings
 
+- items can be added, updated, deleted, or read (crud) from an array
+
 ### Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
+- Conditional statemets all for code to make a decision on what to do next depending on a condition
+- for, while, and do, are loops that check conditions and make a decision accordingly
+- Comparison operators are used in loops to compare two different outcomes:
+**===*** means strictly equal to
+**!==** means not equal to
+**<** means less than
+**<=** means less than or equal to
+- switch cases compare a value to multipe outcomes and allow the use of a default value if none of the outcomes explicity stated are met
+
+
 
