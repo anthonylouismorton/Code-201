@@ -1,11 +1,23 @@
 # Class 201 Reading Notes: Read-03
 - Links allow an html page to connect to an oustide source
 - Links can redirect a user to a new page or could be used to display external media to a page
-- Links are created usting the &lt;a&gt: (anchor) element
-  Example link that would redirect a user to the Google home page: 
-  > &lt;a href="Google.com&gt Click Here to go to Google &lt;/a&gt
+- Links are created usting the &lt;a&gt: (anchor) element  
 - Examples of links include:
-  1.
+
+  1. Links to other sites: These link from your page to an external page such as Amazon, Google, etc.
+  
+  > &lt;a href="Google.com"&gt; Click Here to go to Google &lt;/a&gt
+  
+  3. Links to other pages on the same site: These link from pages on the same site such as from the Home page to the About or Contact page
+ 
+  > &lt;a href="About.html"&gt; Click Here to go to Google &lt;/a&gt
+
+  5. Email Links: This will start up a user's email program and will address an email to an that you specify
+
+  > &lt;a href="mailto:johndoe@gmail.com" &gt; Click Here to go to Google &lt;/a&gt
+  
+  7. Open link to a new window: When a user clicks on this link it will open in a new window
+  8. Link to specific part of a page or different page: This link will take a user to a certain part of the current page or another page on a site
 
 ## ***Duckett HTML Book***
 
