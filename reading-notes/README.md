@@ -33,4 +33,4 @@
 - Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
 
 ### Article: “6 Reasons for Pair Programming”
--Summary
+- Summary
