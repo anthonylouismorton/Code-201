@@ -74,7 +74,7 @@ https://www.codefellows.org/blog/6-reasons-for-pair-programming/
 
 1. Efficiency: Paired programming takes slightly longer, but creates higher-quality code. Programmers can also identify solutions quicker. Pair programming also increases teamwork and team communication.
 2. Engaged Collaboration: Working with another programmer keeps both programmers engaged and on track.
-3. Learning from fellow students: Working together helps people learn new problem solving skills as everyone works differently. Less experienced developers learn new skills using this technique, and skilled developers can increase their own understanding
+3. Learning from fellow students: Working together helps people learn new problem-solving skills as everyone works differently. Less experienced developers learn new skills using this technique, and skilled developers can increase their own understanding
 4. Social Skills: Paired programming increases social skills. communication and social skills are "soft skills", but can be just as important as technical skills. Communication is key!
 5. Job Interview Readiness: Paired programming can assist in preparing for an interview. Technical interviews work similar to paired programming. An employer will give you a challenge and watch you build a project, algorithm, method, feature, etc. They will most likely ask you to explain your "logic" and this is very similar to paired programming
 6. Work environment readiness: Paired programming is part of many work environments. In the "real world" you will most likely perform paired programming or some sort of collaboration on a project. By learning this skill now, it shows an employer that you have one less skill to learn and makes you a more "hirable" candidate.
