@@ -14,8 +14,28 @@
 
 *Example of image element linked to a local image*
 > &lt;img src="C/User/Desktop/image/image.jpeg"&gt;
+
 ### Chapter 11: “Color” (pp.246-263)
+- Color is applied to webpages using CSS styling
+- Color can be applied to many different items of a webpage to include background, text, and border
+- The three ways to specify a CSS color is RGB values, hex code, and color name (pp. 262)
+
+*Hex code*
+> body { background-color: #ff0000: }
+
+*RGB Value*
+> body { background-color: rgb(0, 191, 255);}
+
+*Color Name*
+> body { background-color: black;}
+
+- You can also specify opacity for colors, so that they appear transparent
 
 ## *Blog Post*
 
 ### JPEG vs PNG vs GIF
+
+- There are hundreds of image formats each with their own specific use case
+- Jpeg format is best used for images with natural scenery or photogrpthy and where color variation is smooth
+- PNG format is best used for images that have text and objects with sharp contrast or require transparency
+- GIF format is used for images that have animation
