@@ -10,16 +10,16 @@
 - Functions inside an object are called methods
 - Variables inside an object are called properties. Each property must have a unique name as the name is how each property is accessed
  
- **Literal Notation**
- - Example
+ **Literal Notation Example**
+ 
  > var car = {
  > make: 'Ford',
  > model: 'Bronco'
  > Year: '1972'
  > horn: function() { console.log('beep beep');
  
-  **Dot Notation**
- - Example
+  **Dot Notation Example**
+
  > var carMake = car.make;
  > var carModel = car.model;
  > var honkHorn = car.horn();
