@@ -35,6 +35,7 @@
 ### Chapter 5: “Document Object Model” (pp.183-242)
 - Document Object Model (DOM) is how a webpage will be created and allows JS to access and update the content of a webpage
 - DOM trees have four types of nodes:
+
   1. document nodes - represents entire page
   2. element nodes - represent different elements such as paragraph tags or heading 1 tags
   3. attribute nodes - represents attributes attached to elements
@@ -42,7 +43,7 @@
   
  - element nodes can be selected by their id or class attributes, tag name, or using CSS selector syntax (pp. 242)
  
- > getElementById('genericIdname')
+ getElementById('genericIdname')
  
  - Nodelists are created when a DOM Query can return more than one element. displayed similar to an array and each list item will have an index
  - InnerHTML and DOM manipulation techniques allow a user to access or update the content of an element node
