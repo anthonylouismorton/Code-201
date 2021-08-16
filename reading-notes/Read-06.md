@@ -11,8 +11,7 @@
 - Variables inside an object are called properties. Each property must have a unique name as the name is how each property is accessed
  
  
- **Literal Notation**
- 
+ **Literal Notation** 
  > var car = {
  
  > make: 'Ford',
