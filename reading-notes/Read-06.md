@@ -11,7 +11,7 @@
 - Variables inside an object are called properties. Each property must have a unique name as the name is how each property is accessed
  
  **Literal Notation**
- - Example
+ 
  > var car = {
  > make: 'Ford',
  > model: 'Bronco'
@@ -19,7 +19,7 @@
  > horn: function() { console.log('beep beep');
  
   **Dot Notation**
- - Example
+  
  > var carMake = car.make;
  > var carModel = car.model;
  > var honkHorn = car.horn();
@@ -35,7 +35,9 @@
   4. text nodes - represents the text held within an element
   
  - element nodes can be selected by their id or class attributes, tag name, or using CSS selector syntax (pp. 242)
+ 
  > getElementById('genericIdname')
+ 
  - Nodelists are created when a DOM Query can return more than one element. displayed similar to an array and each list item will have an index
  - InnerHTML and DOM manipulation techniques allow a user to access or update the content of an element node
  - JQuery is often used because older browsers cannot properly implement DOM
