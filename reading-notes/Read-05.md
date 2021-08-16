@@ -1,41 +1,39 @@
 # Class 201 Reading Notes: Read-05
- 
-## ***Duckett HTML Book***
- 
-### Chapter 5: “Images” (pp.94-125)
- 
-- &lt;img&gt; tags are used to insert images on a webpage
-- A source (src) attribute is required to indicate the source of an image. Images can have URLs (website) or they can be found locally on a computer or server (requires file path)
-- Images can be resized and other CSS styling can be applied such as a border
-- A variety of image formats can be used such as jpeg, jpg, gif, png, and many more
- 
-*Example image element linked to picture found on a webpage*
-> &lt;img src="https://www.gannett-cdn.com/presto/2019/12/09/PPHX/2d92b006-9a3e-4b83-8972-aa8f4a8ff5f2-USATSI_13769622.jpg"&gt;
- 
-*Example of image element linked to a local image*
-> &lt;img src="C/User/Desktop/image/image.jpeg"&gt;
- 
-### Chapter 11: “Color” (pp.246-263)
-- Color is applied to web pages using CSS styling
-- Color can be applied to many different items of a webpage to include background, text, and border
-- The three ways to specify a CSS color is RGB values, hex code, and color name (pp. 262)
- 
-*Hex code*
-> body { background-color: #ff0000: }
- 
-*RGB Value*
-> body { background-color: rgb(0, 191, 255);}
- 
-*Color Name*
-> body { background-color: black;}
- 
-- You can also specify opacity for colors, so that they appear transparent
- 
-## *Blog Post*
- 
-### JPEG vs PNG vs GIF
- 
-- There are hundreds of image formats each with their own specific use case
-- Jpeg format is best used for images using photography with natural scenery and where color variation is smooth
-- PNG format is best used for images that have text and objects with sharp contrast or require transparency
-- GIF format is used for images that have animation
+ 
+## ***Duckett JS Book***
+ 
+### Chapter 3: “Object Literals” (pp.100-105)
+ 
+- An object is a set of variables and functions used to create a model. An object can be thought of as a template for real world itmems
+- A car object would have a make, model, engine, doors, color, and transmission. An instance of this object would be a two door 1967 ford mustang with a 5.0 engine and a manual transmission
+- Objects can be used to create several instances of that object and prevents code from being repeated
+- Functions inside an object are called methods
+- Variables inside an object are called properties. Each property must have a unique name as the name is how each property is accessed
+ 
+ **Literal Notation**
+ - Example
+ > var car = {
+ > make: 'Ford',
+ > model: 'Bronco'
+ > Year: '1972'
+ > horn: function() { console.log('beep beep');
+ 
+  **Dot Notation**
+ - Example
+ > var carMake = car.make;
+ > var carModel = car.model;
+ > var honkHorn = car.horn();
+ 
+### Chapter 5: “Document Object Model” (pp.183-242)
+- Document Object Model (DOM) is how a webpage will be created and allows JS to access and update the content of a webpage
+- DOM trees have four types of nodes:
+  1. document nodes - represents entire page
+  2. element nodes - represent different elements such as paragraph tags or heading 1 tag
+  3. attribute nodes - represents attributes attached to elements
+  4. text nodes - represents the text held within an element
+  
+ - element nodes can be selected by their id or class attributes, tag name, or using CSS selector syntax (pp. 242)
+ > getElementById('genericIdname')
+ - Nodelists are created when a DOM Query can return more than one element. displayed similar to an array and each list item will have an index
+ - InnerHTML and DOM manipulation techniques allow a user to access or update the content of an element node
+ - JQuery is often used because older browsers cannot properly implement DOM
