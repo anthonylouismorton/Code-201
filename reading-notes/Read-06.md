@@ -13,17 +13,8 @@
  
  **Literal Notation** 
  
-  > var car = {
-  
-  > make: 'Ford',
+  > var car = { make: 'Ford', model: 'Bronco', Year: '1972', horn: function() { console.log('beep beep');
  
-  > model: 'Bronco',
- 
-  > Year: '1972',
- 
-  > horn: function() { console.log('beep beep');
- 
- 
   **Dot Notation**
   
  > var carMake = car.make;
