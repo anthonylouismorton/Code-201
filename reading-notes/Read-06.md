@@ -31,5 +31,5 @@
 - element nodes can be selected by their id or class attributes, tag name, or using CSS selector syntax (pp. 242)
 > getElementById('genericIdname')
 - Nodelists are created when a DOM Query can return more than one element. displayed similar to an array and each list item will have an index
- - InnerHTML and DOM manipulation techniques allow a user to access or update the content of an element node
- - JQuery is often used because older browsers cannot properly implement DOM
+- InnerHTML and DOM manipulation techniques allow a user to access or update the content of an element node
+- JQuery is often used because older browsers cannot properly implement DOM
