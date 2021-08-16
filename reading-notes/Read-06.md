@@ -14,9 +14,13 @@
  **Literal Notation**
  
  > var car = {
+ 
  > make: 'Ford',
- > model: 'Bronco'
- > Year: '1972'
+ 
+ > model: 'Bronco',
+ 
+ > Year: '1972',
+ 
  > horn: function() { console.log('beep beep');
  
  
