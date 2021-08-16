@@ -25,7 +25,7 @@
 - Document Object Model (DOM) is how a webpage will be created and allows JS to access and update the content of a webpage
 - DOM trees have four types of nodes:
  1. document nodes: represents entire page
-  2. element nodes: represent different elements such as paragraph tags or heading 1 tags
+ 2. element nodes: represent different elements such as paragraph tags or heading 1 tags
   3. attribute nodes: represents attributes attached to elements
   4. text nodes: represents the text held within an element
   
