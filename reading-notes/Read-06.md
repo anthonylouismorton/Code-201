@@ -17,7 +17,7 @@
  
   **Dot Notation**
   
-  > var carMake = car.make; var carModel = car.model; var honkHorn = car.horn();
+  > var carMake = car.make; var carModel = car.model; var honkHorn = car.horn();
 
 
  
