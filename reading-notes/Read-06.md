@@ -18,6 +18,7 @@
  > Year: '1972'
  > horn: function() { console.log('beep beep');
  
+ 
   **Dot Notation**
   
  > var carMake = car.make;
