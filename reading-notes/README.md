@@ -34,3 +34,20 @@
 
 ### Article: “6 Reasons for Pair Programming”
 - Summary
+
+## Read-05
+
+### 1. Duckett HTML Book
+- Chapter 5: “Images” (pp.94-125)
+- Chapter 11: “Color” (pp.246-263)
+
+### Blog Post
+- JPEG vs PNG vs GIF
+
+## Read-06
+
+### Duckett JS Book
+- Chapter 3: “Object Literals” (pp.100-105)
+- Chapter 5: “Document Object Model” (pp.183-242)
+
+
