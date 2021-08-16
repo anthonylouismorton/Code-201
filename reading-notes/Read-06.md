@@ -26,8 +26,8 @@
 - DOM trees have four types of nodes:
  1. document nodes: represents entire page
  2. element nodes: represent different elements such as paragraph tags or heading 1 tags
-  3. attribute nodes: represents attributes attached to elements
-  4. text nodes: represents the text held within an element
+ 3. attribute nodes: represents attributes attached to elements
+ 4. text nodes: represents the text held within an element
   
  - element nodes can be selected by their id or class attributes, tag name, or using CSS selector syntax (pp. 242)
  
