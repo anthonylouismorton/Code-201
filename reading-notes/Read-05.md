@@ -12,17 +12,17 @@
  
  *Literal Notation Example*
  
- > var car = {
- > make: 'Ford',
- > model: 'Bronco'
- > Year: '1972'
- > horn: function() { console.log('beep beep');
+ >var car = {
+ >make: 'Ford',
+ >model: 'Bronco'
+ >Year: '1972'
+ >horn: function() { console.log('beep beep');
  
   *Dot Notation Example*
 
- > var carMake = car.make;
- > var carModel = car.model;
- > var honkHorn = car.horn();
+ >var carMake = car.make;
+ >var carModel = car.model;
+ >var honkHorn = car.horn();
  
 ### Chapter 5: “Document Object Model” (pp.183-242)
 - Document Object Model (DOM) is how a webpage will be created and allows JS to access and update the content of a webpage
