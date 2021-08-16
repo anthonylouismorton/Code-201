@@ -13,7 +13,7 @@
  
  **Literal Notation** 
  
- > var car = {
+  > var car = {
  make: 'Ford',
  
  model: 'Bronco',
