@@ -4,7 +4,7 @@
  
 ### Chapter 3: “Object Literals” (pp.100-105)
  
-- An object is a set of variables and functions used to create a model. An object can be thought of as a template for real world itmems
+- An object is a set of variables and functions used to create a model. An object can be thought of as a template for real world items
 - A car object would have a make, model, engine, doors, color, and transmission. An instance of this object would be a two door 1967 ford mustang with a 5.0 engine and a manual transmission
 - Objects can be used to create several instances of that object and prevents code from being repeated
 - Functions inside an object are called methods
