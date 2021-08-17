@@ -11,19 +11,19 @@
 
   1. Links to other sites: These link from your page to an external page such as Amazon, Google, etc.
   
-  > &lt;a href="Google.com"&gt; Click here to go to Google &lt;/a&gt
+  > &lt;a href="Google.com"&gt; Click here to go to Google &lt;/a&gt;
   
   3. Links to other pages on the same site: These link from pages on the same site such as from the Home page to the About or Contact page
  
-  > &lt;a href="About.html"&gt; About Us &lt;/a&gt
+  > &lt;a href="About.html"&gt; About Us &lt;/a&gt;
 
   5. Email Links: This will start up a user's email program and will address an email to an that you specify
 
-  > &lt;a href="mailto:johndoe@gmail.com" &gt; Click here to send the site creator an email &lt;/a&gt
+  > &lt;a href="mailto:johndoe@gmail.com" &gt; Click here to send the site creator an email &lt;/a&gt;
   
   7. Open link to a new window: When a user clicks on this link it will open in a new window
   
-  > &lt;a href="Google.com" target="blank"&gt; Click here to open Google in a new window &lt;/a&gt
+  > &lt;a href="Google.com" target="blank"&gt; Click here to open Google in a new window &lt;/a&gt;
   
   8. Link to specific part of a page or different page: This link will take a user to a certain part of the current page or another page on a site
 
