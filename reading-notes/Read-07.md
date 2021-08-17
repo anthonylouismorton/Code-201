@@ -54,6 +54,7 @@ This will return a total of 10 to the console.
 - For example, a car object would represent a model for "building" a car and would include things such as make, model, year, color, etc.
 
 *Declaring an object*
+
 const car = {
   make: 'Ford',
   model: 'fusion',
@@ -66,6 +67,7 @@ const car = {
 }
 
 *Calling an object*
+
 console.log(car.make,car.model);
 This will return the car object's make and model
 
