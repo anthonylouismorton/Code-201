@@ -21,17 +21,17 @@
 
 &lt;tr&gt;
 
-&lt;th&gt;
+&lt;th&gt; Apples &lt;/th&gt;
 
-&lt;th&gt;
+&lt;th&gt; Oranges &lt;/th&gt;
 
 &lt;/tr&gt;
 
 &lt;tr&gt;
 
-&lt;th&gt;
+&lt;th&gt; 10 &lt;/th&gt;
 
-&lt;th&gt;
+&lt;th&gt; 5 &lt;/th&gt;
 
 &lt;/tr&gt;
 
