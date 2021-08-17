@@ -16,14 +16,24 @@
 - rowspan and colspan can be used to make cells span more than one row or column
 
 **example table format**
+
 &lt;table&gt;
+
 &lt;tr&gt;
+
 &lt;th&gt;
+
 &lt;th&gt;
+
 &lt;/tr&gt;
+
 &lt;tr&gt;
+
 &lt;th&gt;
+
 &lt;th&gt;
+
 &lt;/tr&gt;
+
 &lt;/table&gt;
 
