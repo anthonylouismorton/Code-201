@@ -50,4 +50,17 @@
 - Chapter 3: “Object Literals” (pp.100-105)
 - Chapter 5: “Document Object Model” (pp.183-242)
 
+## Read-07
+
+### Duckett HTML Book
+- Chapter 6: “Tables” (pp.126-145)
+
+### Duckett JS Book
+- Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+
+## Read-08
+
+### Duckett HTML Book
+- Chapter. 15, “Layout” (pp.358-404)
+
 
