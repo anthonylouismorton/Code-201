@@ -2,7 +2,7 @@
  
 ## ***Duckett HTML Book***
  
-### HTML/CSS book, Ch. 15, “Layout”
+### Chapter. 15, “Layout” (pp.358-404)
  
 - Div elements are similar to section elements. They group together sections on a page and make it easier to adjust the positioning of elements
 - Browsers display normal flow (top to bottom) unless you explicitly set an element to display an element in a certain position. Positioning is the property for accomplishing this and positioning types include:
