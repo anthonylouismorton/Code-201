@@ -18,7 +18,7 @@
 
 ## ***Duckett JS book***
 
-- Chapter 6: “Events” (pp.243-292)
+### Chapter 6: “Events” (pp.243-292)
 - Events occur when the browser or the user performs some sort of action on the browser such as the page loading or the user clicking a button
 - JS can be programmed to person an action when these events occur. For example. clicking on a button can prompt the script to make a pop-up appear with a message
 - There are several types of events and sub-events which can include the following:
