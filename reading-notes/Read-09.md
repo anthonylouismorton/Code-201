@@ -22,7 +22,7 @@
 - Events occur when the browser or the user performs some sort of action on the browser such as the page loading or the user clicking a button
 - JS can be programmed to person an action when these events occur. For example. clicking on a button can prompt the script to make a pop-up appear with a message
 - There are several types of events and sub-events which can include the following:
-  1. UI Events - Occurs when the user interacts with a browser
+  1.UI Events - Occurs when the user interacts with a browser
   Keyboard Events - Occur when the user interacts with their keyboard
   Mouse Events - Occur when the user interacts with the mouse
   Form Events - Occur when the user interacts with a form on a web page
