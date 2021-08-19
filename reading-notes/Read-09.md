@@ -26,8 +26,7 @@
   2. Keyboard Events - Occur when the user interacts with their keyboard
   3. Mouse Events - Occur when the user interacts with the mouse
   4. Form Events - Occur when the user interacts with a form on a web page
-  
- - There are three ways to bind an event to an element:
+- There are three ways to bind an event to an element:
   1. HTML Event Handlers: These attributes were introduced in an early version of HTML that was added to elements that performed an action when the event occurred:
     *&lt;<a onclick="hide()"&gt;* this event handler would call the hide function
   2. DOM Event Handlers: Similiar to HTML Event Handlers, but separates JS from HTML. The main drawback is that DOM Event Handlers can only perform one function
