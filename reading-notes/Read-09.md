@@ -13,7 +13,7 @@
 
 ### Chapter 14: “Lists, Tables & Forms” (pp.330-357)
 - Lists can be provided different styling attributes. decimal, lower-alpha, and used to change how a list is numbered using the list-style-type property
-- tables can be styled in many ways. Each row may have its own stylings such as background color, font-weight, color, alignment, and many others
+- Tables can be styled in many ways. Each row may have its own stylings such as background color, font-weight, color, alignment, and many others
 - empty cells can also be styled so that a gap or empty space does not appear in the middle of a table. This is accomplished
 
 ## ***Duckett JS book***
