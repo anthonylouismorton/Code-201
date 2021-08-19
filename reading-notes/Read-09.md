@@ -23,9 +23,9 @@
 - JS can be programmed to person an action when these events occur. For example. clicking on a button can prompt the script to make a pop-up appear with a message
 - There are several types of events and sub-events which can include the following:
   1. UI Events - Occurs when the user interacts with a browser
-  2. Keyboard Events - Occur when the user interacts with their keyboard
-  3. Mouse Events - Occur when the user interacts with the mouse
-  4. Form Events - Occur when the user interacts with a form on a web page
+  Keyboard Events - Occur when the user interacts with their keyboard
+  Mouse Events - Occur when the user interacts with the mouse
+  Form Events - Occur when the user interacts with a form on a web page
 
 - There are three ways to bind an event to an element:
   1. HTML Event Handlers: These attributes were introduced in an early version of HTML that was added to elements that performed an action when the event occurred:
