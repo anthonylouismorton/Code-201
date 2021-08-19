@@ -28,7 +28,11 @@
   4. Form Events - Occur when the user interacts with a form on a web page
   
 - There are three ways to bind an event to an element:
-  1. HTML Event Handlers: These attributes were introduced in an early version of HTML that was added to elements that performed an action when the event occurred:
+  1. HTML Event Handlers: These attributes were introduced in an early version of HTML that was added to elements that performed an action when the event occurred:
+    *&lt;<a onclick="hide()"&gt;* this event handler would call the hide function
+  2. DOM Event Handlers: Similiar to HTML Event Handlers, but separates JS from HTML. The main drawback is that DOM Event Handlers can only perform one function
+  3. DOM Event Listeners: These are the preferred method of handling events. Event Listeners function similar to event handlers, but now multiple functions can occur when an event occurs.
+-   HTML Event Handlers: These attributes were introduced in an early version of HTML that was added to elements that performed an action when the event occurred:
     *&lt;<a onclick="hide()"&gt;* this event handler would call the hide function
   2. DOM Event Handlers: Similiar to HTML Event Handlers, but separates JS from HTML. The main drawback is that DOM Event Handlers can only perform one function
   
