@@ -63,4 +63,14 @@
 ### Duckett HTML Book
 - Chapter. 15, “Layout” (pp.358-404)
 
+## Read-09
+
+### Duckett HTML Book
+- Chapter 7: “Forms” (p.144-175)
+- Chapter 14: “Lists, Tables & Forms” (pp.330-357)
+
+### Duckett JS Book
+- Chapter 6: “Events” (pp.243-292)
+
+
 
