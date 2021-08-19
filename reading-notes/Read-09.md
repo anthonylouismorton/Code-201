@@ -9,7 +9,7 @@
   2. Value - the attribute attached to the input tag where a user will provide information. The value is the actual user input
   
 - There are several input types: textbox, text area, radio buttons, etc. Multiple selections can be made per input type if desired
-- A textbox can also have validation messages that prompt user if their selection meets the input criteria. For example, if it is a name textbox a validation message could appear if a user attempts to input numbers
+- A textbox can also have validation messages that prompt users if their selection meets the input criteria. For example, if it is a name textbox a validation message could appear if a user attempts to input numbers
 
 ### Chapter 14: “Lists, Tables & Forms” (pp.330-357)
 - Lists can be provided different styling attributes. decimal, lower-alpha, and used to change how a list is numbered using the list-style-type property
