@@ -6,7 +6,7 @@
 - Form elements can be used to collect user information
 - Forms need two pieces of information so that the server knows how to store the information; name and value
   1. Name - the attribute attached to the input tag where a user will provide information. The name is essentially a label invisible to the end-user the tells the server the input's name
-  2. Value - the attribute attached to the input tag where a user will provide information. The value is the actual user input
+  2. Value - the attribute attached to the input tag where a user will provide information. The value is the actual user input
   
 - There are several input types: textbox, text area, radio buttons, etc. Multiple selections can be made per input type if desired
 - A textbox can also have validation messages that prompt user if their selection meets the input criteria. For example, if it is a name textbox a validation message could appear if a user attempts to input numbers
