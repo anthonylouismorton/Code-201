@@ -12,7 +12,7 @@
 - A textbox can also have validation messages that prompt user if their selection meets the input criteria. For example, if it is a name textbox a validation message could appear if a user attempts to input numbers
 
 ### Chapter 14: “Lists, Tables & Forms” (pp.330-357)
-- lists can be provided different styling attributes. decimal, lower-alpha, and used to change how a list is numbered using the list-style-type property
+- Lists can be provided different styling attributes. decimal, lower-alpha, and used to change how a list is numbered using the list-style-type property
 - tables can be styled in many ways. Each row may have its own stylings such as background color, font-weight, color, alignment, and many others
 - empty cells can also be styled so that a gap or empty space does not appear in the middle of a table. This is accomplished
 
