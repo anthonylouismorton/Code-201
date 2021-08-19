@@ -14,7 +14,7 @@
 ### Chapter 14: “Lists, Tables & Forms” (pp.330-357)
 - Lists can be provided different styling attributes. decimal, lower-alpha, and used to change how a list is numbered using the list-style-type property
 - Tables can be styled in many ways. Each row may have its own stylings such as background color, font-weight, color, alignment, and many others
-- empty cells can also be styled so that a gap or empty space does not appear in the middle of a table. This is accomplished
+- Empty cells can also be styled so that a gap or empty space does not appear in the middle of a table. This is accomplished
 
 ## ***Duckett JS book***
 
@@ -22,10 +22,10 @@
 - Events occur when the browser or the user performs some sort of action on the browser such as the page loading or the user clicking a button
 - JS can be programmed to person an action when these events occur. For example. clicking on a button can prompt the script to make a pop-up appear with a message
 - There are several types of events and sub-events which can include the following:
-1. UI Events - Occurs when the user interacts with a browser
-  Keyboard Events - Occur when the user interacts with their keyboard
-  Mouse Events - Occur when the user interacts with the mouse
-  Form Events - Occur when the user interacts with a form on a web page
+  1. UI Events - Occurs when the user interacts with a browser
+  2. Keyboard Events - Occur when the user interacts with their keyboard
+  3. Mouse Events - Occur when the user interacts with the mouse
+  4. Form Events - Occur when the user interacts with a form on a web page
 
 - There are three ways to bind an event to an element:
   1. HTML Event Handlers: These attributes were introduced in an early version of HTML that was added to elements that performed an action when the event occurred:
