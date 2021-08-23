@@ -10,8 +10,8 @@
 
 ### Chapter 19: “Practical Information” (476-492)
 - Search engine optimization(SEO) is the practice of designing a page so that it is more visible on search engines. Search engines consider what appears on your page and what other pages on the internet link to yours. SEO is divided into two major techniques:
-  
-  *On-Page Techniques*
+
+*On-Page Techniques*
   
   - On-page techniques refer to the method in which you can improve your page to appear on search engines
   - Using keywords on your HTML that people search for on Google will increase your visibility
