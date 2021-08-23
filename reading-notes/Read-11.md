@@ -18,7 +18,7 @@
   - Search engines rely on the text that appears on your webpage
   - Using the alt attribute in pictures to add keywords to an image will increase page visibility
   
-  *Off-Page Techniques
+  *Off-Page Techniques*
   
   - Off-page techniques focus on having other pages link to yours. The more pages that link your page, the higher your search engine visibility will be
   - It is also important that the external page linking to yours has some relevance to your page
