@@ -6,7 +6,7 @@
 - Chart.js can create different types of charts to include bar charts, lines charts, and pie charts
 - A chart is created by performing a few simple steps:
 1. Download Chart.js and put the file in your JS project folder
-2. Link the JS file in your HTML page
+2. Link the JS file to your HTML page
 3. Create a canvas element in your HTML file
 4. Get the element in your JS file and create a chart variable
 5. Finally, create a data variable to include your data and dataset styling
@@ -14,7 +14,7 @@
 ## ***Canvas API***
 
 ### Basic Usage
-- The canvas element is simliar to an image element but lakes an alt or src attribute
+- The canvas element is similar to an image element but lakes an alt or src attribute
 - The canvas element can utilize fallback content for pages that do not support it
 - A closing canvas tag is required unlike in an image tag
 - JS is needed to render content within the tag
@@ -27,11 +27,11 @@
 - Paths are then created using a path function. These form how the shape will appear
 
 ### Drawing Shapes with Canvas
-- Many stylings can be provides on a Canvas element
+- Many stylings can be provided on a Canvas element
 - Color styling includes fill and stroke colors
 - Transparency can also be applied
-- Different line styling includes width, endlines, linejoins and dashing
-- Gradients, shadows and patterns can also be applied as styling
+- Different line styling includes width, endlines, line joins, and dashing
+- Gradients, shadows, and patterns can also be applied as styling
 - Styling of charts within a canvas element is applied in the JS of a directory and not using CSS. Example syntax is as follows:
 > linearGradient(x1, y1, x2, y2)
 *This creates a linear gradient object*
@@ -40,6 +40,6 @@
 
 ### Drawing text
 - Canvas has two methods to render text:
-  1. fillText: This will fill text at a given point
-  2. strokeText: This will stroke text at a given point
-- Text in the canvas element can be styled simliar to HTML text, but through JS and not CSS
+  1. fillText: This will fill text at a given point
+  2. strokeText: This will stroke text at a given point
+- Text in the canvas element can be styled similar to HTML text but through JS and not CSS
