@@ -23,4 +23,23 @@
 - Canvas uses a grid system to draw shapes. To draw a rectangle the syntax is as follows:
 >fillRect(x, y, width, height)
 
--
+- Different shapes include rectangles, triangles, Quadratic Bezier curves, Cubic Bezier curves, arcs, and combinations
+- Paths are then created using a path function. These form how the shape will appear
+
+### Drawing Shapes with Canvas
+- Many stylings can be provides on a Canvas element
+- Color styling includes fill and stroke colors
+- Transparency can also be applied
+- Different line styling includes width, endlines, linejoins and dashing
+- Gradients, shadows and patterns can also be applied as styling
+- Styling of charts within a canvas element is applied in the JS of a directory and not using CSS. Example syntax is as follows:
+> linearGradient(x1, y1, x2, y2)
+*This creates a linear gradient object*
+> lineWidth = 10;
+*This changes the line width of a chart*
+
+### Drawing text
+- Canvas has two methods to render text:
+  1. fillText: This will fill text at a given point
+  2. strokeText: This will stroke text at a given point
+- Text in the canvas element can be styled simliar to HTML text, but through JS and not CSS
