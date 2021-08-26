@@ -21,7 +21,7 @@
 > .box:hover {
 >  background: #ff7b29;
 > }
-This example CSS would change the background of the box element when it hovers over and the transition occurs over 1 second (https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+- This example CSS would change the background of the box element when it hovers over and the transition occurs over 1 second (https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
 - vendor prefix should be added to transitions and animations to ensure that they are supported on all browsers
 - transition-property can be used to target certain properties within an element, otherwise, all will be targeted
 - transition properties can be applied to most CSS styling such as border-color, font-size, color, etc
