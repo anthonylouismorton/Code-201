@@ -10,7 +10,7 @@
 ## Transitions & Animations
 - Transition is new to CSS3 and allows the element to change in appearance from one state to another without the use of flash or javascript
 - Animation is new to CSS3 as well. However, unlike transition, Animation allows an element to have multiple points of transition instead of transitioning from one point to another
-- These stylings need to know when to occur, so the use of pseudo-classes (:hover, :focus, :active, and :target) is best way to identify when transitioning should occur
+- These stylings need to know when to occur, so the use of pseudo-classes (:hover, :focus, :active, and :target) is the best way to identify when transitioning should occur
 *Example transition CSS*
 >.box {
 >  background: #2db34a;
