@@ -72,5 +72,12 @@
 ### Duckett JS Book
 - Chapter 6: “Events” (pp.243-292)
 
+## Read-10
+
+### Duckett JS Book
+- Ch. 10, “Error Handling & Debugging (pp.449 - 486)”
+
+
+
 
 
