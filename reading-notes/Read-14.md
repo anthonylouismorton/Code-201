@@ -13,11 +13,11 @@
 - These stylings need to know when to occur, so the use of pseudo-classes (:hover, :focus, :active, and :target) is best way to identify when transitioning should occur
 *Example transition CSS*
 >.box {
-  background: #2db34a;
-  transition-property: background;
-  transition-duration: 1s;
-  transition-timing-function: linear;
-}
-.box:hover {
-  background: #ff7b29;
-}
+>  background: #2db34a;
+>  transition-property: background;
+>  transition-duration: 1s;
+>  transition-timing-function: linear;
+> }
+> .box:hover {
+>  background: #ff7b29;
+> }
