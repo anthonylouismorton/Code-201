@@ -1,9 +1,10 @@
 # Cooperation Plan
 Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
 
-###Describe at least:
+### Describe at least:
 
 What are the key strengths of each person on the team?
+
 - George: GitHub and Enjoys CSS (not the best in own opinion)
 - Andrea: CSS, HTML
 - Anthony: JS
@@ -11,6 +12,7 @@ What are the key strengths of each person on the team?
 - Zack: JS HTML
 
 How can you best utilize these strengths in the execution of your project?
+
 Focus on own strengths and collaborate with others that have similiar strengths to help when issues arise. Work with others to strength skills in weaker areas.
 
 In which professional competencies do you each want to develop greater strength?
@@ -48,10 +50,10 @@ How will you approach each other and the challenges of the project knowing that 
 
 How will you raise concerns to members who are not adequately contributing?
 - Send them to King George IV (I've seen his hands, they are really big)
-- Confront the person personally. Maybe they don't understand they are not adequately contributing and just need a little bump
+- Confront the person personally (one on one). Maybe they don't understand they are not adequately contributing and just need a little bump
 
 How and when will you escalate the conflict if your resolution attempts are unsuccessful?
-- If the issue still peresits, have a group meeting to discuss the issue
+- If the issue still peresits, have a group meeting to discuss the issue with the offending party
 - If all else fails, get faculty involved
 
 Communication Plan
@@ -60,24 +62,31 @@ Before beginning to tackle the project, determine how your group will communicat
 Describe at least:
 
 What hours will you be available to communicate?
+
 9AM - 5PM, subject to interviews, appoinments, moving, picking up children that drain the life out of you, taco tuesday, weddings, etc.
 
 What platforms will you use to communicate (ie. Slack, phone …)?
+
 Slack, Discord, and Trello
 
 How often will you take breaks?
+
 Lunch and 10 minutes every two hours or when needed
 
 What is your plan if you start to fall behind?
+
 Re-evaluate and re-assess goals, redistribute work, change grouping structure
 
 How will you communicate after hours and on the weekend?
+
 Slack and Discord and phone in emergencies
 
 What is your strategy for ensuring everyone’s voice is heard?
+
 Morning meetings and using "talking stick" (have at least a few minutes where everyone can share something and no one can interupt
 
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
+
 Morning meetings and using "talking stick" (have at least a few minutes where everyone can share something and no one can interupt
 
 Work Plan
@@ -86,9 +95,11 @@ Explain your work plan to track whether everyone is contributing equally to all 
 Describe at least:
 
 How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
+
 Assign, track, and manage tasks through Trello
 
 What project management tool will be used?
+
 Trello
 
 Git Process
@@ -97,21 +108,31 @@ Plan out what your team’s Git workflow looks like for coding tasks.
 Describe at least:
 
 What components of your project will live on GitHub?
+
 All of them
 
 How will you share the repository with your teammates?
+
 Everyone will be a collaborator on a Git respository managed by George
 
 What is your Git flow?
+
 George is the end all be all, two reviewer authentication
 
 Will you be using a PR review workflow? If so, consider:
 
-How many people must review a PR? 2
+How many people must review a PR?
 
-Who merges PR? George
+2
 
-How often will you merge? Every morning, or when required and everyone will be informed to push/pull
+Who merges PR? 
+
+George
+
+How often will you merge? 
+
+Every morning, or when required and everyone will be informed to push/pull
 
 How will you communicate that it’s time to merge?
+
 During the morning meeting we will all be together in discord and merge or use discord, slack, phone, in the event another merge is needed
