@@ -1,4 +1,6 @@
-# Table of Contents
+# Reading Notes
+
+## Code 201 - Foundations of Software Development
 
 ## Read-02
 
@@ -77,7 +79,7 @@
 ### Duckett JS Book
 - Ch. 10, “Error Handling & Debugging (pp.449 - 486)”
 
-
+## Code 301 - Foundations of Software Development
 
 
 
