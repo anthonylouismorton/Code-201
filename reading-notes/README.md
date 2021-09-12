@@ -81,5 +81,30 @@
 
 ## Code 301 - Foundations of Software Development
 
+## Read-01
 
+### Component Based Architecture
+1. What is a component
+> A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
+> A component is a software object, intended to interact with other components, encapsulating certain functionality or a set of functionalities. It has an obviously defined interface and conforms to a recommended behavior common to all components within an architecture.
 
+2. What are the characteristics of a component?
+- Reusability: designed to be reused in different situations in different applications
+- Replaceable: Can be replaced with other similar components
+- Not context-specific: components are designed to work in multiple contexts
+- Extensible: Can be extended from existing components to have a new behavior
+- Encapsulated: a component depicts the interface and allows users to call its functionality, but does not expose internal details of it
+- Independent: Designed to nave minimal reliance on other components
+
+3. What are the advantages of using component based architecture?
+- ease of deployment, reduced cost, reusable, modification of technical complexity, reliability, system maintenance and evolution, and independent
+
+### What is props and How to Use it in React
+1. What is props short for?
+- Props is short for properties
+
+2. How are props used in React?
+- Props are used for passing data from one component to another
+
+3. What is the flow of props?
+- props is a uni-directional flow meaning that data is being passed one way from parent to child
