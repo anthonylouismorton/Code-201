@@ -57,3 +57,19 @@ https://github.com/anthonylouismorton/Reading-Notes/blob/main/reading-notes/Read
 ## Read-07
 
 https://github.com/anthonylouismorton/Reading-Notes/blob/main/reading-notes/Read-07-301.md
+
+## Read-08
+
+https://github.com/anthonylouismorton/Reading-Notes/blob/main/reading-notes/Read-08-301.md
+
+## Read-09
+
+https://github.com/anthonylouismorton/Reading-Notes/blob/main/reading-notes/Read-09-301.md
+
+## Read-10
+
+https://github.com/anthonylouismorton/Reading-Notes/blob/main/reading-notes/Read-10-301.md
+
+## Read-11
+
+https://github.com/anthonylouismorton/Reading-Notes/blob/main/reading-notes/Read-11-301.md
