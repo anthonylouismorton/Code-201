@@ -1,0 +1,31 @@
+## Read-06
+
+### Explain what a “Singleton” is (in Computer Science terms)
+A singleton is when an object can only be created once. Only one object can be instantiated and if one exists the singleton will create a new one.
+
+### Explain how the Singleton pattern can be used with Node modules, specifically with classes
+A class would have a singleton constructor function and then export an instance of the class. This could then be imported into another class. Every time it is used it will create an instance of an object.
+
+
+### If you were tasked with building a middleware system as Express uses, what approach might you take to construct/operate it?
+I would export the middleware as an instance.
+
+
+### Vocabulary Terms
+Router Middleware - Used after a request to route a request to the proper handler
+Dynamic Module Loading - Load, refresh, and delete installation load modules
+Singleton Pattern -  A singleton is when an object can only be created once. Only one object can be instantiated and if one exists the singleton will create a new one.
+CRUD -> REST Method Matches - 
+Create - post
+Read - Get
+Update - Put
+Delete - delete
+Mock Testing -  is an approach to unit testing that lets you make assertions about how the code under test is interacting with other system modules. 
+
+
+
+
+
+### Sources
+https://www.ibm.com/docs/en/zos/2.1.0?topic=modules-dynamic-load
+https://devopedia.org/mock-testing
