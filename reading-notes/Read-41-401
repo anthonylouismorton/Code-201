@@ -1,0 +1,16 @@
+## Read-41
+
+### Compare and Contrast Redux Toolkit with Redux “Ducks”
+Ducks seems easier to organize and update code by bundling reducers, action types, and actions in the same file
+
+### What is the principle advantage of Redux Toolkit
+ it easier to write good Redux applications and speeds up development, by baking in our recommended best practices, providing good default behaviors, catching mistakes, and allowing you to write simpler code
+
+### Vocabulary Terms
+redux toolkit slices - a higher order function that accepts an initial state, an object full of reducer functions and a slice name. It automatically generates action creators and action types that correspond to the reducers and state.
+namespace - a set of signs (names) that are used to identify and refer to objects of various kinds. A namespace ensures that all of a given set of objects have unique names so that they can be easily identified.
+
+### Sources
+https://en.wikipedia.org/wiki/Namespace
+https://medium.com/geekculture/understanding-createslice-in-redux-toolkit-reactjs-eca8d20f45d7
+https://redux.js.org/redux-toolkit/overview#:~:text=Redux%20Toolkit%20makes%20it%20easier,of%20skill%20level%20or%20experience.
